@@ -15,8 +15,10 @@
 
 ## 動作環境
 
-- macOS 14（Sonoma）以降
-- Apple シリコン、Intel のどちらの Mac でも動きます
+- macOS 14（Sonoma）以降が対象です。動作を確認しているのは macOS 26 で、macOS 14・15 では未確認です。
+- Apple シリコンの Mac で動作を確認しています。Intel の Mac 向けにも作ってありますが、実機では未確認です。
+
+未確認の環境でうまく動かないときは、[Issues](https://github.com/DrHac-GH/windowkeeper-releases/issues) でお知らせください。7 日間のお試しで、購入前に確かめられます。
 
 ## インストール
 
